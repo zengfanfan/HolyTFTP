@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=_name
+Exec=_exec
+Terminal=false
+Type=Application
+Icon=_icon
+Categories=Development
